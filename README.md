@@ -1,5 +1,8 @@
 # Plutus
-## Overview
+
+# Overview
+Plutus is a mobile web app to track all the expenses between your friends to provide a simple view and summary of the amount that is lent or owned, inspired from the app 'Splitwise'. The idea of the name "Plutus" is a reference to the mythological greek god of wealth.
+
 This project was done in 3 people group with [Vikram](https://github.com/vikram1510) and [Chawit](https://github.com/ChawitO), with the aim to build a complete website with the frontend along with our own backend API and database.
 
 We chose to build a bill splitting app, inspired by Splitwise, which records and shows bill splitting between friends. It is designed to be mobile first, so if viewing on desktop please try to narrow the width to about 380px.
@@ -8,7 +11,7 @@ The project is currently deployed at https://plutus-cbv.herokuapp.com/.
 
 <img src="https://i.imgur.com/qcd8EoC.png" title="source: imgur.com" height="400"/>
 
-## Timeframe and Team
+# Timeframe and Team
 1 week and 3 people
 
 ## Technologies
