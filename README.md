@@ -8,7 +8,8 @@ We chose to build a bill splitting app, inspired by Splitwise, which records and
 
 The project is currently deployed at https://plutus-cbv.herokuapp.com/.
 
-<img src="https://i.imgur.com/qcd8EoC.png" title="source: imgur.com" height="400"/>
+<img src="https://i.imgur.com/qcd8EoC.png" title="source: imgur.com" width="400"/>
+
 
 # Timeframe and Team
 1 week and 3 people
@@ -24,29 +25,29 @@ The project is currently deployed at https://plutus-cbv.herokuapp.com/.
 * Pusher's Channel - Managed websocket connections and allows for real-time notifications
 
 # Instructions
-<img src="https://i.imgur.com/m4CDdjs.png" title="source: imgur.com" height="400"/>
+<img src="https://i.imgur.com/m4CDdjs.png" title="source: imgur.com" width="400"/>
 
 After you sign up and then sign in, you can start creating your expense and split your bills with friends.
 
-<img src="https://i.imgur.com/g1t4kGc.png" title="source: imgur.com" height="400"/>
+<img src="https://i.imgur.com/g1t4kGc.png" title="source: imgur.com" width="400"/>
 
 The image above shows the create expense form. You can specify who paid the bill, and what type of split do you want. For splits, there are unequal, equal, and percentage based splitting.
 
-<img src="https://i.imgur.com/biPpa1I.png" title="source: imgur.com" height="400"/>
+<img src="https://i.imgur.com/biPpa1I.png" title="source: imgur.com" width="400"/>
 
 The image above shows the home page after you signed in, assuming you had made some expenses before. This page shows your total balance between your friends a the top. And below it shows if you owe your friends or they owe you. Clicking on your friend will lead to a detailed page showing all the bills between you and your friend.
 
-<img src="https://i.imgur.com/iZzp55J.png" title="source: imgur.com" height="400"/>
+<img src="https://i.imgur.com/iZzp55J.png" title="source: imgur.com" width="400"/>
 
 The image above shows the detailed bill listings between you and your friends. The greyed out listing represents expense that was deleted, it is not included in calculating the total owed amount, but can be recovered at any time. You can also click on the expense itself to see all friends involved in that specific expense.
 
-<img src="https://i.imgur.com/4S9bFWd.png" title="source: imgur.com" height="400"/>
+<img src="https://i.imgur.com/4S9bFWd.png" title="source: imgur.com" width="400"/>
 
 The image above shows an expense show page. With an equal splitting between 3 people, where Rakesh paid £18 in total, but owes £6 to the group, and the other 2 each owes £6 to the group.
 
 You can also add comments to the expense
 
-<img src="https://i.imgur.com/pJyga8I.png" title="source: imgur.com" height="400"/>
+<img src="https://i.imgur.com/pJyga8I.png" title="source: imgur.com" width="400"/>
 
 There is also a real-time notification system. If someone add or settle an expense, you will be notified in this page.
 
