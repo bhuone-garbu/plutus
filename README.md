@@ -55,7 +55,7 @@ There is also a real-time notification system. If someone add or settle an expen
 
 We wanted to build a project that has real world usage, while we wanted to do something original, we went with Splitwise as the inspiration. We used it frequently and so were familiar with it, we were curious on how it works and so it was an obvious choice for us.
 
-We all had a hand in all parts, frontend, backend, and styling. My major contributions developing the backend on Python/Django and hooking up the push notications from backend as activities and rendering on real-time on frontend like notifications.
+We all had a hand in all parts, frontend, backend, and styling. My major contributions however was leading, designing and developing the backend on Python/Django and hooking up the push notications as activities and rendering on real-time on frontend like notifications.
 
 
 # Challenges
@@ -69,7 +69,7 @@ We all had a hand in all parts, frontend, backend, and styling. My major contrib
 * We get to work on a project that works well and has real world implication.
 * Learnt much more about React and Python/Django
 
-# Further Features/Improves
+# Further Features/Improvements
 * Styled-components
 * I would like to learn React Native and make a proper mobile app for this
 * Implement PayPal and fully
