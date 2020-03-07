@@ -59,7 +59,8 @@ We all had a hand in all parts, frontend, backend, and styling. My major contrib
 
 
 # Challenges
-* When we encounted a problem, we were not sure if it was a frontend or a backend problem. This was especially true of our expense model, which is quite complicated. When we encounted a problem, we was unsure if we should fix it at the frontend or the backend. In the end we decided that it would be better to refactor and improve the backend, so that it is easier to understand and use.
+* The biggest challenge was to model the data for expenses and splits which affects the "owe amount" calculations and also the fact that users could delete and undelete any previous expenses.
+* The next one was activities and pushing them only to the users that are applicable. ☝️ But because user can update the expense splits with new ones or remove existing users, modeling this and testing was tricky but I got there in the end. It was very satisfying when things worked as expected. 
 * Designing for mobile while working on desktop has some complications. The hover effects on desktop don't work properly on mobile.
 * Designing SCSS to be reuseable is complicated given then short time we had.
 * And ☝️ the final CSS was a bit bloated.
